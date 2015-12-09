@@ -1,0 +1,28 @@
+name: FTF Engineering
+favicon: null
+layout_spectrum: 0.39503151434473693
+typography_spectrum: 0.434276235755533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4369841548614204
+  lightness: 0.07857682020403445
+  saturation: 0.7858623203355819
+  rhythmicContrast: 0.007962410803884268
+purpose: []

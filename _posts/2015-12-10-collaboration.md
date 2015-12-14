@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-14T20:40:15.099Z'
-dateModified: '2015-12-10T17:49:45.523Z'
+datePublished: '2015-12-14T20:43:27.842Z'
+dateModified: '2015-12-14T20:43:13.607Z'
 title: Collaboration
 author: []
 sourcePath: _posts/2015-12-10-collaboration.md

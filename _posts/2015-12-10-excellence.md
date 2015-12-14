@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-10T17:28:26.861Z'
-dateModified: '2015-12-10T17:24:32.300Z'
+datePublished: '2015-12-14T20:44:47.251Z'
+dateModified: '2015-12-14T20:43:20.227Z'
 title: Excellence
 author: []
 authors: []

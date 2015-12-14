@@ -7,18 +7,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-10T17:28:26.875Z'
-dateModified: '2015-12-10T17:27:04.800Z'
+datePublished: '2015-12-14T20:40:15.099Z'
+dateModified: '2015-12-10T17:49:45.523Z'
 title: Collaboration
 author: []
+sourcePath: _posts/2015-12-10-collaboration.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-10-collaboration.md
-published: true
 _type: Blurb
 
 ---

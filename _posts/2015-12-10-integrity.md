@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-10T17:28:26.867Z'
-dateModified: '2015-12-10T17:24:29.264Z'
+datePublished: '2015-12-14T20:44:58.112Z'
+dateModified: '2015-12-14T20:43:17.811Z'
 title: Integrity
 author: []
 authors: []

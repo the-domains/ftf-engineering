@@ -1,4 +1,8 @@
-name: FTF Engineering
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -28,13 +32,9 @@ color:
     - '#f6fbfc'
   lightness: 0.5
 typography_spectrum: 0.434276235755533
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0.4148936
+name: FTF Engineering

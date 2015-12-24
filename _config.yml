@@ -1,8 +1,8 @@
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -13,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7858623203355819
@@ -32,9 +32,9 @@ color:
     - '#f6fbfc'
   lightness: 0.5
 typography_spectrum: 0.434276235755533
-layout_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.3191489
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: FTF Engineering

@@ -1,7 +1,7 @@
 name: FTF Engineering
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.434276235755533
+typography_spectrum: 0.9667743088211864
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#354c6c'
-    - '#c1c8ce'
-    - '#4e6e8d'
-    - '#7997b0'
-    - '#f6fbfc'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.7858623203355819
-  rhythmicContrast: 0.007962410803884268
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.04386615473777056
+  lightness: 0.9492773013189435
+  saturation: 0.2514742468483746
+  rhythmicContrast: 0.1722916050348431
 purpose: []

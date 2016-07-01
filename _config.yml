@@ -2,6 +2,7 @@ name: FTF Engineering
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.9667743088211864
+style: the-composer
 collections:
   - index:
       path: /

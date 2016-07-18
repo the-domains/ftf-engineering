@@ -30,6 +30,10 @@ navigation:
     url: 2016-07-18-about-us.html
     name: About Us
     type: content
+  - id: 794edb00-c944-490a-a903-3d44f376b1fe
+    url: 2015-12-10-soft-story-retrofit-ordinance.html
+    name: Soft Story Retrofit Ordinance
+    type: content
 favicon: null
 collections:
   - index:

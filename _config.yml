@@ -1,8 +1,36 @@
-name: FTF Engineering
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.9667743088211864
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.04386615473777056
+  lightness: 0.9492773013189435
+  saturation: 0.2514742468483746
+  rhythmicContrast: 0.1722916050348431
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: FTF Engineering
+cta:
+  domain: null
+  bucket: null
+  version: null
 style: the-composer
+navigation:
+  - id: 25db95e0-1fb0-4332-954f-cbfba144329f
+    url: 2016-07-18-about-us.html
+    name: About Us
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +43,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  brandStrength: 0.04386615473777056
-  lightness: 0.9492773013189435
-  saturation: 0.2514742468483746
-  rhythmicContrast: 0.1722916050348431
 purpose: []

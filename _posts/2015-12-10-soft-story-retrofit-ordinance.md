@@ -1,38 +1,32 @@
 ---
-datePublished: '2016-07-18T00:21:42.741Z'
+datePublished: '2016-07-25T02:02:57.350Z'
 sourcePath: _posts/2015-12-10-soft-story-retrofit-ordinance.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-18T00:21:41.554Z'
+dateModified: '2016-07-25T02:02:56.512Z'
 title: Soft Story Retrofit Ordinance
-publisher: null
+publisher: {}
 description: >-
   The program is intended to make San Francisco more “resilient”, to minimize
   the damage to infrastructure and the economy, and to expedite recovery from
   the effects of these damaging earthquakes.
 inLanguage: null
 inNav: false
+via: {}
 starred: false
 url: soft-story-retrofit-ordinance/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6557b11a0715e9896db406f9e32697f59ee7ebb.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9172163be96475c154dc74715cb4969dc112a032.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/267615a0af2604455e3f8d145cfff79c92a6b5c6.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a93397f8109e86c8fc70c26bb8680a07825b0503.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11f470400ea6de6e4a1d9a4cdb6209ef2b830dbc.jpg)
-
-The program is intended to make San Francisco more "resilient", to minimize the damage to infrastructure and the economy, and to expedite recovery from the effects of these damaging earthquakes.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b0bf8ab897764e2630933eabf21b9a973cfa1a3.gif)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/098b146cf3b859348f84a63a2116b1dfa859cc86.jpg)
-
 # Soft Story Retrofit Ordinance
 
-What is the Soft Story Retrofit Ordinance?
+### What is the Soft Story Retrofit Ordinance?
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6557b11a0715e9896db406f9e32697f59ee7ebb.jpg)
+
+The program is intended to make San Francisco more "resilient", to minimize the damage to infrastructure and the economy, and to expedite recovery from the effects of these damaging earthquakes.
 
 The Soft Story Retrofit Ordinance was passed into law and requires the seismic retrofit of some of San Francisco's most seismically vulnerable buildings. The Soft Story Retrofit Ordinance applies to buildings that are:
 
@@ -41,6 +35,7 @@ The Soft Story Retrofit Ordinance was passed into law and requires the seismic r
 * of wood framed construction
 * constructed before 1978
 * Have a ground floor or under-floor space that is different from the rest of the stories above
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/267615a0af2604455e3f8d145cfff79c92a6b5c6.jpg)
 
 What do I have to do?
 
@@ -60,6 +55,8 @@ Existing brick foundations may be incorporated in the retrofit design if they ar
 
 > In addition, as-built drawings are required for the engineering, costing on the order of $3,000 for smaller buildings to $8,000 for larger buildings. Permit fees are approximately $3,000\. If steel framing is used, special inspections by a third party are required, and cost on the order of $3,000 -- $5,000\.
 
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a93397f8109e86c8fc70c26bb8680a07825b0503.jpg)
+
 Will I have to remove tenants from my building?
 
 Typically the retrofit work will only need to be done on the ground floor and basement if one exists. Only ground floor tenants may need to be temporarily relocated.
@@ -75,6 +72,8 @@ My building made it through the 1989 Loma Prieta earthquake just fine, so why do
 The 1989 Loma Prieta earthquake was centered near Santa Cruz, 70 miles south of San Francisco, and resulted in what engineers would consider moderate ground shaking in most of San Francisco except soft soil sites like the Marina District and South of Market, where most of the damage was concentrated.
 
 > The level of ground shaking engineers expect in an earthquake on the Hayward Fault, 10 miles from San Francisco, will be 3 times stronger than the 1989 event and will result in much more widespread damage to buildings.
+
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11f470400ea6de6e4a1d9a4cdb6209ef2b830dbc.jpg)
 
 Why is this particular type of building being targeted?
 
@@ -103,8 +102,9 @@ Will this make my building "earthquake-proof"?
 
 Buildings can only be made "earthquake-proof" at extraordinary expense compared to achieving "life safety", which is the expected performance for typical new buildings. Life safety means that the building will be damaged in a large but expected earthquake, but will remain safe for the occupants. Only hospitals and other critical facilities are designed to "Immediate Occupancy" performance.  
 Furthermore, in order to make the ordinance palatable to owners and renters, the Ordinance was written to limit the work to mitigating the soft story condition, since this is the most severe seismic hazard in these buildings, and the most cost-effective to remedy. But without doing work in the entire building, the rest of the building may still suffer damage in a large but expected earthquake.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/098b146cf3b859348f84a63a2116b1dfa859cc86.jpg)
 
-### Why Soft Story:
+## Why Soft Story
 
 > [San Francisco's Community Action Plan for Seismic Safety (CAPSS)][4]is an earthquake hazard study that took 10 years to complete. It resulted in the_Earthquake Safety Implementation Program_(ESIP), a 30-year action plan to make San Francisco less vulnerable to the inevitable earthquakes that are expected to strike the region.
 
@@ -117,6 +117,7 @@ Soft-story, wood framed buildings were found to have a 90 percent probability of
 We are passionate about making San Francisco more resilient; ensuring that our city will be up-and-running as soon as possible after a major seismic event. We strive to enable citizens to stay in their homes (and to continue paying rent), keep businesses up and running, and to facilitate the restoration of normal civic activities and occupancies as quickly as possible.
 
 We are deeply involved with with the Structural Engineers Association of Northern California's (SEAONC) Existing Buildings Committee (EBC) and the San Francisco Department of Building Inspection (DBI), commonly referred to as the "building department". Working with SEAONC-EBC and other leading structural engineers, we are developing consensus interpretations, refinements, amendments and corrections to this leading edge seismic retrofit program.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9162582e-d138-4f39-a9a8-d69d28ccb259.gif)
 
 ### What we do:
 
@@ -146,16 +147,23 @@ Taking the **best next step towards your soft story solution**
 
 Randy Collins and the FTF Engineering team are seasoned professionals able to assist building owners and managers in assessing and efficiently remediating buildings with soft story vulnerabilities. From start to finish we advise our clients on the optimum solution and develop a retrofit design that is tailored to the dynamic strength and stiffness characteristics of the entire building. Our experienced engineers will work with you to:
 
-null
+* Surveying the building
+* Engineering analysis and design
+* Coordination with existing conditions
+* Finding available contractors
+* Soliciting and evaluating bids
+* Securing building permits
+* Observing construction
 
 ### For more information
 
-Please see the [article from LA Times][5], San Francisco based [Soft Story Contractor.][6]
+Please see the [article we wrote for Bay Area Retrofit][5] and an [article from LA Times][6], San Francisco based [Soft Story Contractor][7].
 
 [0]: http://www.sfgsa.org/modules/showdocument.aspx?documentid=11126
 [1]: http://www.sfgsa.org/index.aspx?page=6046 "here."
 [2]: http://www.sfgsa.org/index.aspx?page=6044 "http://www.sfgsa.org/index.aspx?page=6044 "
 [3]: http://www.spur.org/initiative/resilient-city "http://www.spur.org/initiative/resilient-city"
 [4]: http://www.sfgsa.org/index.aspx?page=6046 "CAPPS"
-[5]: http://www.latimes.com/local/lanow/la-me-ln-quake-san-francisco-20151006-htmlstory.html
-[6]: http://www.bayarearetrofit.com/
+[5]: http://bayareasoftstoryretrofit.com/soft-story-retrofit-engineer/
+[6]: http://www.latimes.com/local/lanow/la-me-ln-quake-san-francisco-20151006-htmlstory.html
+[7]: http://bayarearetrofit.com/
